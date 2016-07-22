@@ -1,7 +1,8 @@
 ## This is an easy-to-use Spinner for Android
 </br>
-This is basic usage:
 <img src="https://github.com/yeleaveszi/JJYSpinner/blob/master/spinner.gif">
+</br>
+This is basic usage:
 ```java
         JJYSpinner jjySpinner=(JJYSpinner)findViewById(R.id.spinner);
         final String[] content=new String[]{"ONE","TWO","THREE","FOUR","FIVE","SIX","SEVEN","EIGHT","NIGHT","TEN"};
